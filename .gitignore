@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+resume_parsed/
+*.extract.md
+*.extract.json
+assessment.json
+report.html
+report.pdf
+jd.txt
