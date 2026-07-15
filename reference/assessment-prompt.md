@@ -42,7 +42,7 @@
 {
   "candidate": "王志远",
   "position": "后端架构师",
-  "source": "个人简历-王志远.pdf",
+  "source": "王志远-简历.pdf",
   "date": "2026-07-14",
   "conclusion": {
     "score": 82,
@@ -52,8 +52,8 @@
   "eligibility": {
     "status": "存在疑点",
     "checks": [
-      { "item": "学历:计算机本科（南山大学（示例））——满足本科及以上", "status": "pass" },
-      { "item": "经验:后端研发 12 年（2012 至今）——满足 8 年以上", "status": "pass" },
+      { "item": "学历:计算机本科（南山大学，示例）——满足本科及以上", "status": "pass" },
+      { "item": "经验:后端研发 10 年（2015 至今）——满足 8 年以上", "status": "pass" },
       { "item": "硬技能:Kubernetes / 云原生生产落地（JD 硬性要求）", "status": "doubt",
         "note": "简历仅体现 Docker 编译用途，未见 K8s 生产经验，须面试核实。" }
     ],
