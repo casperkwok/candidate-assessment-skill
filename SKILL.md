@@ -1,7 +1,7 @@
 ---
 name: candidate-assessment
 description: Evaluates how well a candidate's resume matches a target job description (JD) and produces a clean, professional HTML assessment report. Parses the resume (via the resume-parsing skill), reads the JD from any format (txt/md/pdf/docx), scores the fit across a weighted 7-module model, and renders a hiring report with overall score, grade, dimension breakdown, risks, and interview questions. Use when the user wants to assess/score a candidate against a job, match a resume to a JD (简历 JD 匹配 / 候选人评估 / 匹配度打分 / 招聘评估), or generate a candidate evaluation report.
-version: 1.0.2
+version: 1.0.3
 license: MIT
 metadata:
   openclaw:
